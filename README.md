@@ -20,6 +20,6 @@ This is the result from the Logic Analyzer Application.
 
 ## Collaborators
 
-The co-partner that contributed to this project:
-- [Collaborator 1](https://github.com/lichun-19)
+Partner that contributed to this project:
+- [Lichun Lu](https://github.com/lichun-19)
 
