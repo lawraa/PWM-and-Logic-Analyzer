@@ -5,6 +5,7 @@ This repository generates the PWM waveforms using Mbed Studio and Logic Analyzer
 
 - [Usage](#usage)
 - [Result](#result)
+- [Collaborators](#Collaborators)
 
 ## Usage
 
@@ -16,4 +17,9 @@ This is the result from the Logic Analyzer Application.
 - We can observe that the period is a 50% duty cycle, relative to period
 
 ![HW5-NEW](https://github.com/lawraa/PWM-and-Logic-Analyzer/assets/77081328/6a3a2c30-357e-4674-bdd1-96d03067392f)
+
+## Collaborators
+
+The co-partner that contributed to this project:
+- [Collaborator 1](https://github.com/lichun-19)
 
